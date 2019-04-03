@@ -1,5 +1,5 @@
 # Bear_Alignment_Tools
-Three simple tools to help with the alignment of the Y rod holders and Y motor mount on the Bear frame.
+Three simple tools to help with the alignment of the Y rod holders and Y motor mount on the Bear frame.  Use calipers to verify the size after printing.
 
 The 82mm tool is for aligning the Y rod holders
 
