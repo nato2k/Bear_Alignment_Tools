@@ -7,6 +7,8 @@ The 54mm tool is for aligning the Y motor holder to the left hand (when facing t
 
 The 59mm tool is for aligning the Y motor holder to the right hand (when facing the front of the frame) Y rod holder
 
+![Example](https://github.com/nato2k/Bear_Alignment_Tools/blob/master/example.jpg?raw=true)
+
 All steps are detailed in the original build instructions below
 
 For the rod holders:
