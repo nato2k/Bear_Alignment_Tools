@@ -9,6 +9,8 @@ The 59mm tool is for aligning the Y motor holder to the right hand (when facing 
 
 The 120mm tool is for aligning the Y idler
 
+The 134mm tool is for spacing the Y rod holders before the Motor mount or idler is in place.
+
 ![Example](https://github.com/nato2k/Bear_Alignment_Tools/blob/master/example.jpg?raw=true)
 
 All steps are detailed in the original build instructions below
